@@ -1,5 +1,7 @@
 # Task API
 
+[![CI](https://github.com/Radiqeee/taskapi/actions/workflows/ci.yml/badge.svg)](https://github.com/Radiqeee/taskapi/actions/workflows/ci.yml)
+
 A production-style REST API in Go: JWT authentication, PostgreSQL, Docker, OpenAPI docs and tests.
 
 **Stack:** Go 1.26 · Gin · PostgreSQL (pgx) · JWT · bcrypt · Docker Compose · Swagger UI
